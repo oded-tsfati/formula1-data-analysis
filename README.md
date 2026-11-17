@@ -2,7 +2,7 @@
 
 Exploratory analysis of the complete Formula 1 World Championship history with **pandas**, **Matplotlib** and **Seaborn**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oded-tsfati/Formula1/blob/main/Formula1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oded-tsfati/formula1-data-analysis/blob/main/Formula1.ipynb)
 
 ## Questions explored
 - **Who wins the most?** Top 10 drivers and top 10 constructors by race wins
